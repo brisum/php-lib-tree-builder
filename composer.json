@@ -1,0 +1,21 @@
+{
+  "name": "brisum/lib-tree-builder",
+  "description": "Build tree from array, object list",
+  "keywords": [
+    "tree",
+    "builder"
+  ],
+  "homepage": "https://github.com/brisum/php-lib-tree-builder",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Lib\\TreeBuilder\\": "src/"
+    }
+  }
+}
